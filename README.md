@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryutaro Maejima</h1>
 <h3 align="center">I'd like to be the hacker.</h3>
-<img src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif" alt="Girl in a jacket" width="100%" height="100%">
 
 - 🔭 I’m currently working on [Java Develop](#coming_soon)
 
