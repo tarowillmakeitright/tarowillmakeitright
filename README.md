@@ -2,19 +2,11 @@
 <h3 align="center">I'd like to be the hacker.</h3>
 <img src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif" alt="Girl in a jacket" width="100%" height="100%">
 
-- 🔭 I’m currently working on [Java Develop](#coming_soon)
-
-- 🌱 I’m currently learning **AWS, Docker**
-
 - 👨‍💻 All of my projects are available at [https://github.com/tarowillmakeitright](https://github.com/tarowillmakeitright)
 
 - 📝 I regularly write articles on [https://dumbasshacker.netlify.app/](https://dumbasshacker.netlify.app/)
 
-- 💬 Ask me about **Java, Javascript, HTML**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/ryutaro-maejima-74b69223b/](https://www.linkedin.com/in/ryutaro-maejima-74b69223b/)
-
-- ⚡ Fun fact **I love hiking Mountains and the views from the top of the mountain.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
